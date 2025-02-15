@@ -27,13 +27,13 @@ The repository is organized as follows:
 
 - **Programming Language**: Python
 - **Libraries**:
-  - Standard Libraries: OS, Re, Math, Shutil
-  - Data Handling & Processing: NumPy, Pandas
-  - Data Visualization: Matplotlib, Seaborn, Plotly, Ipywidgets, IPython.Display
-  - Statistics & Analysis: Statsmodels, SciPy
-  - Machine Learning: Scikit-Learn
-  - Deep Learning: Torch, Transformers
-  - Other: Textwrap, Requests
+  - **Standard Libraries**: OS, Re, Math, Shutil
+  - **Data Handling & Processing**: NumPy, Pandas
+  - **Data Visualization**: Matplotlib, Seaborn, Plotly, Ipywidgets, IPython.Display
+  - **Statistics & Analysis**: Statsmodels, SciPy
+  - **Machine Learning**: Scikit-Learn
+  - **Deep Learning**: Torch, Transformers
+  - **Other**: Textwrap, Requests
 - **Tools**: Jupyter Notebook, VS Code
 
 ## 📝 Assignments Overview
